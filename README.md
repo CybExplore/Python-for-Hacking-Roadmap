@@ -108,7 +108,7 @@ We value your input! If you have feedback on this roadmap or suggestions for add
 
 ## Contact
 
-For any questions or support, please reach out to us at [support@cybexplore.com](mailto:support@cybexplore.com).
+For any questions or support, please reach out to us at [support@cybexplore.org](mailto:support@cybexplore.com).
 
 ## License
 
